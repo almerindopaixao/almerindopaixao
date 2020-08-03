@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Almerindo Paixão from Brazil (🇧🇷). I've been working as Front-End Developer since 2020 and currently. I am passionate about web development and technology, so I created some projects like 🎞️ [ALMERINDOFLIX](https://almerindoflix.vercel.app) and I always liked to produce a lot of content during my career.
+My name is Almerindo Paixão from Brazil (🇧🇷). I've been working as Front-End Developer since 2020 and currently. I am passionate about web development and technology, so I created some projects like 🎞️ [Proffy](https://github.com/almerindopaixao/Proffy) and I always liked to produce a lot of content during my career.
 - 📫 How to reach me: almerindo_paixao@live.com
 - 🔭 I am currently working with web development
 - ⚡ Fun fact: In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵).
