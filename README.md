@@ -16,6 +16,6 @@ Would you like to find me?
 
 ## My contributions
 
-![Almerindo github stats](https://github-readme-stats.vercel.app/api?username=almerindopaixao&show_icons=true&hide_border=true)
+![Almerindo github stats](https://github-readme-stats.vercel.app/api?username=almerindopaixao&show_icons=true&hide_border=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almerindopaixao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
