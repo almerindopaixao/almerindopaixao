@@ -14,3 +14,6 @@ Would you like to find me?
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCOLlxMWiX4sC1fcf0X6kUJg?view_as=subscriber)](https://www.youtube.com/channel/UCOLlxMWiX4sC1fcf0X6kUJg?view_as=subscriber)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/almerindo.paixao)](https://www.facebook.com/almerindo.paixao)
 
+![Almerindo github stats](https://github-readme-stats.vercel.app/api?username=almerindopaixaof&show_icons=true&hide_border=true)
+
+
