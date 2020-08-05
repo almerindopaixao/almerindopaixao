@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Almerindo Paixão from Brazil (🇧🇷). I've been working as Front-End Developer since 2020 and currently. I am passionate about web development and technology, so I created some projects like 🎞️ [Proffy](https://github.com/almerindopaixao/Proffy) and I always liked to produce a lot of content during my career.
 - 📫 How to reach me: almerindo_paixao@live.com
@@ -14,6 +14,8 @@ Would you like to find me?
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCOLlxMWiX4sC1fcf0X6kUJg?view_as=subscriber)](https://www.youtube.com/channel/UCOLlxMWiX4sC1fcf0X6kUJg?view_as=subscriber)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/almerindo.paixao)](https://www.facebook.com/almerindo.paixao)
 
-![Almerindo github stats](https://github-readme-stats.vercel.app/api?username=almerindopaixaof&show_icons=true&hide_border=true)
+## Minhas Contribuições
+
+![Almerindo github stats](https://github-readme-stats.vercel.app/api?username=almerindopaixao&show_icons=true&hide_border=true)
 
 
