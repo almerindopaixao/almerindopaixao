@@ -4,7 +4,8 @@ My name is Almerindo Paixão from Brazil (🇧🇷). I've been working as Front-
 - 📫 How to reach me: almerindo_paixao@live.com
 - 🔭 I am currently working with web development
 - ⚡ Fun fact: In my free time I like to play (and watch) soccer (⚽️), to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵).
-- 🌱 I’m currently learning React and React-Native
+- 🌱 I’m currently learning React, React-Native and 
+wordpress plugins development
 
 
 Would you like to find me?
