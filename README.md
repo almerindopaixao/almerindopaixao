@@ -17,7 +17,6 @@ Would you like to find me?
 ## My contributions
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almerindopaixao&layout=compact&langs_count=9&theme=github_dark)
-&nbsp;
 ![Almerindo github stats](https://github-readme-stats.vercel.app/api?username=almerindopaixao&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
